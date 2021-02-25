@@ -6,3 +6,6 @@ body,
   padding: 0;
   margin: 0;
 }
+.leaflet-container {
+  background: rgb(10, 10, 10); imp !important
+}
